@@ -1,0 +1,28 @@
+body{
+  /* background-color: yellowgreen; */
+  font-family:  'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ text-align: center; 
+background-color: black;
+color: red;
+height: 50vh;
+font-size: 30px;
+}
+
+.whole{
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  justify-content: center;
+  align-items: center;
+  
+margin-top: 100px;
+padding: px;
+
+}
+
+button{
+  width: 200px;
+font-size: 30px;
+margin: auto;
+
+}
